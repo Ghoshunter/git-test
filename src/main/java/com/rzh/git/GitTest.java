@@ -1,0 +1,11 @@
+package com.rzh.git;
+
+/**
+ * @author rzh
+ * @create 2021-12-12-17:40
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
